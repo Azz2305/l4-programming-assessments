@@ -1,3 +1,3 @@
 # unit assessments 
-Creating a Github repositary
-   2. 
+1. Creating a Github repositary
+2. 
